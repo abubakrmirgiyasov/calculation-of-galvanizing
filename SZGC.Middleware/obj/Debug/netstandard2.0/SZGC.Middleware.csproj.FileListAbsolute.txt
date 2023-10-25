@@ -1,0 +1,17 @@
+D:\Works\SZGC-Software-Package\SZGC.Middleware\bin\Debug\netstandard2.0\SZGC.Middleware.deps.json
+D:\Works\SZGC-Software-Package\SZGC.Middleware\bin\Debug\netstandard2.0\SZGC.Middleware.dll
+D:\Works\SZGC-Software-Package\SZGC.Middleware\bin\Debug\netstandard2.0\SZGC.Middleware.pdb
+D:\Works\SZGC-Software-Package\SZGC.Middleware\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\Works\SZGC-Software-Package\SZGC.Middleware\bin\Debug\netstandard2.0\SZGC.Domain.dll
+D:\Works\SZGC-Software-Package\SZGC.Middleware\bin\Debug\netstandard2.0\SZGC.Infrastructure.dll
+D:\Works\SZGC-Software-Package\SZGC.Middleware\bin\Debug\netstandard2.0\System.Security.dll
+D:\Works\SZGC-Software-Package\SZGC.Middleware\bin\Debug\netstandard2.0\SZGC.Domain.pdb
+D:\Works\SZGC-Software-Package\SZGC.Middleware\bin\Debug\netstandard2.0\SZGC.Infrastructure.pdb
+D:\Works\SZGC-Software-Package\SZGC.Middleware\obj\Debug\netstandard2.0\SZGC.Middleware.csproj.AssemblyReference.cache
+D:\Works\SZGC-Software-Package\SZGC.Middleware\obj\Debug\netstandard2.0\SZGC.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\SZGC-Software-Package\SZGC.Middleware\obj\Debug\netstandard2.0\SZGC.Middleware.AssemblyInfoInputs.cache
+D:\Works\SZGC-Software-Package\SZGC.Middleware\obj\Debug\netstandard2.0\SZGC.Middleware.AssemblyInfo.cs
+D:\Works\SZGC-Software-Package\SZGC.Middleware\obj\Debug\netstandard2.0\SZGC.Middleware.csproj.CoreCompileInputs.cache
+D:\Works\SZGC-Software-Package\SZGC.Middleware\obj\Debug\netstandard2.0\SZGC.Middleware.csproj.CopyComplete
+D:\Works\SZGC-Software-Package\SZGC.Middleware\obj\Debug\netstandard2.0\SZGC.Middleware.dll
+D:\Works\SZGC-Software-Package\SZGC.Middleware\obj\Debug\netstandard2.0\SZGC.Middleware.pdb

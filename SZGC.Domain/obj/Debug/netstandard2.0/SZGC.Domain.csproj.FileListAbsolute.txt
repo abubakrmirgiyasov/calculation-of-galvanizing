@@ -1,0 +1,10 @@
+D:\Works\SZGC-Software-Package\SZGC.Domain\bin\Debug\netstandard2.0\SZGC.Domain.deps.json
+D:\Works\SZGC-Software-Package\SZGC.Domain\bin\Debug\netstandard2.0\SZGC.Domain.dll
+D:\Works\SZGC-Software-Package\SZGC.Domain\bin\Debug\netstandard2.0\SZGC.Domain.pdb
+D:\Works\SZGC-Software-Package\SZGC.Domain\obj\Debug\netstandard2.0\SZGC.Domain.csproj.AssemblyReference.cache
+D:\Works\SZGC-Software-Package\SZGC.Domain\obj\Debug\netstandard2.0\SZGC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\SZGC-Software-Package\SZGC.Domain\obj\Debug\netstandard2.0\SZGC.Domain.AssemblyInfoInputs.cache
+D:\Works\SZGC-Software-Package\SZGC.Domain\obj\Debug\netstandard2.0\SZGC.Domain.AssemblyInfo.cs
+D:\Works\SZGC-Software-Package\SZGC.Domain\obj\Debug\netstandard2.0\SZGC.Domain.csproj.CoreCompileInputs.cache
+D:\Works\SZGC-Software-Package\SZGC.Domain\obj\Debug\netstandard2.0\SZGC.Domain.dll
+D:\Works\SZGC-Software-Package\SZGC.Domain\obj\Debug\netstandard2.0\SZGC.Domain.pdb

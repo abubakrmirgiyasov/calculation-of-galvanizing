@@ -1,0 +1,15 @@
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\bin\Debug\netstandard2.0\SZGC.Infrastructure.deps.json
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\bin\Debug\netstandard2.0\SZGC.Infrastructure.dll
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\bin\Debug\netstandard2.0\SZGC.Infrastructure.pdb
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\bin\Debug\netstandard2.0\SZGC.Domain.dll
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\bin\Debug\netstandard2.0\System.Security.dll
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\bin\Debug\netstandard2.0\SZGC.Domain.pdb
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\obj\Debug\netstandard2.0\SZGC.Infrastructure.csproj.AssemblyReference.cache
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\obj\Debug\netstandard2.0\SZGC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\obj\Debug\netstandard2.0\SZGC.Infrastructure.AssemblyInfoInputs.cache
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\obj\Debug\netstandard2.0\SZGC.Infrastructure.AssemblyInfo.cs
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\obj\Debug\netstandard2.0\SZGC.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\obj\Debug\netstandard2.0\SZGC.Infrastructure.csproj.CopyComplete
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\obj\Debug\netstandard2.0\SZGC.Infrastructure.dll
+D:\Works\SZGC-Software-Package\SZGC.Infrastructure\obj\Debug\netstandard2.0\SZGC.Infrastructure.pdb
